@@ -1,0 +1,14 @@
+.imp-container {
+    display: inline-block;
+    flex: 1;
+}
+
+#iImportant {
+    font-size: 32px;
+    cursor: pointer;
+    color: var(--gray-1);
+}
+
+#iImportant.fas {
+    color: var(--primary-bright);
+}

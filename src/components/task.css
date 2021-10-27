@@ -1,0 +1,19 @@
+.task {
+    display: flex;
+    margin: 10px 20px;
+    padding: 10px;
+    background-color: rgba(254, 254, 254, 0.5);
+    border: 1px solid var(--gray-1);
+    border-radius: 6px;
+    align-items: center;   
+    text-align: left;
+}
+
+.task .description {
+    flex: 6;
+    padding-top: 10px;
+}
+
+.task .location {
+    flex: 2;
+}

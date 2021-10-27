@@ -1,0 +1,32 @@
+.task-info {
+    flex: 3;
+    background-color: white;
+    height: 100%;
+    padding: 20px;    
+    text-align: left;
+}
+
+.task-info h3 {    
+    font-family: Arial,serif;
+    font-size: 28px;    
+    color: var(--dark-text);
+    text-align: center;
+    margin-bottom: 15px;
+    font-family: "Segoe UI", Tahoma, Geneva;
+}
+
+.task-info .control {
+    display: block;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    padding: 10px 5px;
+}
+
+.task-info .control label {
+    font-size: 18px;
+    color: var(--gray-1);
+}
+
+.task-info .control input {
+    font-size: 18px;
+}
