@@ -2,11 +2,11 @@
 
 ## Steps to execute
 
-### Clone the project to your computer
+#### 1- Clone the project to your computer
 
 
-### Position the terminal in the folder that contains the code
+#### 2- Position the terminal in the folder that contains the code
 
-### To install dependencies run:  npm install
+#### 3- To install dependencies run:  npm install
 
-### Run the project: npm start
+#### 4- Run the project: npm start
